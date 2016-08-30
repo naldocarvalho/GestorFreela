@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gestor Freela</string>
+    <string name="navi_config">Configurações</string>
+    <string name="navi_notificacoes">Configurar Notificações</string>
+    <string name="navi_avaliarapp">Avaliar este app</string>
+    <string name="navi_termosuso">Termos de Uso</string>
+    <string name="navi_privacidade">Politica de Privacidade</string>
+    <string name="navi_anuncie">Anuncie</string>
+    <string name="navi_sobre">Sobre</string>
+    <string name="navi_contato">Contato</string>
+    <string name="navi_sair">Sair</string>
+    <string name="navi_abrir">Abrir</string>
+    <string name="navi_fechar">Fechar</string>
+    <string name="navisocial_publicacoes">Todas Publicações</string>
+    <string name="navisocial_youtube">Youtube</string>
+    <string name="navisocial_facebook">Facebook</string>
+    <string name="navisocial_twitter">Twitter</string>
+    <string name="navisocial_instagram">Instagram</string>
+</resources>
